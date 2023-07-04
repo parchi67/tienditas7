@@ -1,0 +1,192 @@
+[
+    {
+        "id": "yogurt",
+        "titulo": "yogurt",
+        "imagen": "img/1.jpg",
+        "categoria": {
+            "nombre": "yogures",
+            "id": "yogures"
+        },
+        "precio": 4.50
+    },
+    {
+        "id": "yogurt",
+        "titulo": "yogurt",
+        "imagen": "img/2.jpg",
+        "categoria": {
+            "nombre": "yogures",
+            "id": "yogures"
+        },
+        "precio": 4.50
+    },
+    {
+        "id": "yogurt",
+        "titulo": "yogurt",
+        "imagen": "img/3.jpg",
+        "categoria": {
+            "nombre": "yogures",
+            "id": "yogures"
+        },
+        "precio": 4.50
+    },
+    {
+        "id": "yogurt",
+        "titulo": "yogurt",
+        "imagen": "img/4.jpg",
+        "categoria": {
+            "nombre": "yogures",
+            "id": "yogures"
+        },
+        "precio": 4.50
+    },
+    {
+        "id": "gaseosa",
+        "titulo": "gaseosa",
+        "imagen": "img/5.jpg",
+        "categoria": {
+            "nombre": "gaseosas",
+            "id": "gaseosas"
+        },
+        "precio": 3.00
+    },
+    {
+        "id": "gaseosa",
+        "titulo": "gaseosa",
+        "imagen": "img/6.jpg",
+        "categoria": {
+            "nombre": "gaseosas",
+            "id": "gaseosas"
+        },
+        "precio": 3.00
+    },
+    {
+        "id": "gaseosa",
+        "titulo": "gaseosa",
+        "imagen": "img/7.jpg",
+        "categoria": {
+            "nombre": "gaseosas",
+            "id": "gaseosas"
+        },
+        "precio": 3.00
+    },
+    {
+        "id": "gaseosa",
+        "titulo": "gaseosa",
+        "imagen": "img/8.jpg",
+        "categoria": {
+            "nombre": "gaseosas",
+            "id": "gaseosas"
+        },
+        "precio": 3.00
+    },
+    {
+        "id": "gaseosa",
+        "titulo": "gaseosa",
+        "imagen": "img/9.jpg",
+        "categoria": {
+            "nombre": "gaseosas",
+            "id": "gaseosas"
+        },
+        "precio": 3.00
+    },
+    {
+        "id": "galletas",
+        "titulo": "galletas",
+        "imagen": "img/10.jpg",
+        "categoria": {
+            "nombre": "galletas",
+            "id": "galletas"
+        },
+        "precio": 1.60
+    },
+    {
+        "id": "galletas",
+        "titulo": "galletas",
+        "imagen": "img/11.jpg",
+        "categoria": {
+            "nombre": "galletas",
+            "id": "galletas"
+        },
+        "precio": 1.60
+    },
+    {
+        "id": "galletas",
+        "titulo": "galletas",
+        "imagen": "img/12.jpg",
+        "categoria": {
+            "nombre": "galletas",
+            "id": "galletas"
+        },
+        "precio": 1.60
+    },
+    {
+        "id": "galletas",
+        "titulo": "galletas",
+        "imagen": "img/13.jpg",
+        "categoria": {
+            "nombre": "galletas",
+            "id": "galletas"
+        },
+        "precio": 1.60
+    },
+    {
+        "id": "galletas",
+        "titulo": "galletas",
+        "imagen": "img/14.jpg",
+        "categoria": {
+            "nombre": "galletas",
+            "id": "galletas"
+        },
+        "precio": 1.60
+    },
+    {
+        "id": "galletas",
+        "titulo": "galletas",
+        "imagen": "img/15.jpg",
+        "categoria": {
+            "nombre": "galletas",
+            "id": "galletas"
+        },
+        "precio": 1.60
+    },
+    {
+        "id": "chocolates",
+        "titulo": "chocolates",
+        "imagen": "img/21.jpg",
+        "categoria": {
+            "nombre": "chocolates",
+            "id": "chocolates"
+        },
+        "precio": 3.00
+    },
+    {
+        "id": "chocolates",
+        "titulo": "chocolates",
+        "imagen": "img/22.jpg",
+        "categoria": {
+            "nombre": "chocolates",
+            "id": "chocolates"
+        },
+        "precio": 3.00
+    },
+    {
+        "id": "chocolates",
+        "titulo": "chocolates",
+        "imagen": "img/23.jpg",
+        "categoria": {
+            "nombre": "chocolates",
+            "id": "chocolates"
+        },
+        "precio": 3.00
+    },
+    {
+        "id": "chocolates",
+        "titulo": "chocolates",
+        "imagen": "img/24.jpg",
+        "categoria": {
+            "nombre": "chocolates",
+            "id": "chocolates"
+        },
+        "precio": 3.00
+    }
+]
